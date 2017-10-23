@@ -1,0 +1,11 @@
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojResolveAssemblyReference.cache
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb

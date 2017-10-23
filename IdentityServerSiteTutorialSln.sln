@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerSiteTutorial", "IdentityServerSiteTutorial\IdentityServerSiteTutorial.csproj", "{DD7A1767-B64E-493F-9BB2-F81B48439D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcClient", "MvcClient\MvcClient.csproj", "{5CD49DA1-6666-415D-8D8E-4B58B066438E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7A1767-B64E-493F-9BB2-F81B48439D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7A1767-B64E-493F-9BB2-F81B48439D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7A1767-B64E-493F-9BB2-F81B48439D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7A1767-B64E-493F-9BB2-F81B48439D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD49DA1-6666-415D-8D8E-4B58B066438E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD49DA1-6666-415D-8D8E-4B58B066438E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD49DA1-6666-415D-8D8E-4B58B066438E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD49DA1-6666-415D-8D8E-4B58B066438E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2E4ECF-C397-42F4-9AD8-98202D283058}
+	EndGlobalSection
+EndGlobal

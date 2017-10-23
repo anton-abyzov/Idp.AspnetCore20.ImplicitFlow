@@ -1,0 +1,11 @@
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\bin\Debug\netcoreapp2.0\IdentityServerSiteTutorial.deps.json
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\bin\Debug\netcoreapp2.0\IdentityServerSiteTutorial.runtimeconfig.json
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\bin\Debug\netcoreapp2.0\IdentityServerSiteTutorial.runtimeconfig.dev.json
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\bin\Debug\netcoreapp2.0\IdentityServerSiteTutorial.dll
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\obj\Debug\netcoreapp2.0\IdentityServerSiteTutorial.csprojResolveAssemblyReference.cache
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\obj\Debug\netcoreapp2.0\IdentityServerSiteTutorial.csproj.CoreCompileInputs.cache
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\obj\Debug\netcoreapp2.0\IdentityServerSiteTutorial.AssemblyInfoInputs.cache
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\obj\Debug\netcoreapp2.0\IdentityServerSiteTutorial.AssemblyInfo.cs
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\bin\Debug\netcoreapp2.0\IdentityServerSiteTutorial.pdb
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\obj\Debug\netcoreapp2.0\IdentityServerSiteTutorial.dll
+D:\Projects\Testlab\IdentityServerSiteTutorialSln\IdentityServerSiteTutorial\obj\Debug\netcoreapp2.0\IdentityServerSiteTutorial.pdb

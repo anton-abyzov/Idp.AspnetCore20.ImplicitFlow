@@ -1,0 +1,7 @@
+/Samples/Logging/LoggingSample/obj
+/Samples/Logging/LoggingSample/bin
+/Samples/SCENConfigurationPlugin/obj
+/Samples/SCENConfigurationPlugin/bin
+/Sourcecode/sermocore.DashboardWeb/src/Web/WebSPA/npm-debug.log.2868193825
+.vs
+*.user
